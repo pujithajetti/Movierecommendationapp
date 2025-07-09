@@ -18,9 +18,6 @@ An interactive web application built with **Streamlit** that recommends movies b
 - **Top-N Recommendations**: Displays the top 5 most similar movies.
 - **Movie Metadata**: Can include static posters and release years.
 
----
-
-
 
 ---
 
