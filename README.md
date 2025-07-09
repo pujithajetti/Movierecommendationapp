@@ -20,18 +20,7 @@ An interactive web application built with **Streamlit** that recommends movies b
 
 ---
 
-## 📦 Repository Structure
 
-```
-Movierecommendationapp/
-├── app.py                     # Streamlit web app interface
-├── model.pkl                  # Serialized similarity model
-├── tmdb_5000_movies.csv       # Movie metadata
-├── tmdb_5000_credits.csv      # Cast and crew data
-├── recommendation.ipynb       # Jupyter notebook for training and analysis
-├── requirements.txt           # Project dependencies
-└── README.md                  # Project documentation
-```
 
 ---
 
